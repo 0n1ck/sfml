@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Zprostředkující adresář (x64\Debug\) obsahuje soubory sdílené z jiného projektu (sfmlThings.vcxproj). To může způsobit nesprávné chování při čištění a opětovném sestavení.
+  Source.cpp
+C:\Users\Ondřej\source\repos\sfmlThings\sfmlThings\Source.cpp(16,44): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Ondřej\source\repos\sfmlThings\sfmlThings\Source.cpp(16,29): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Ondřej\source\repos\sfmlThings\sfmlThings\Source.cpp(79,18): warning C4244: inicializování: T se převádí na int; může dojít ke ztrátě dat.
+          with
+          [
+              T=float
+          ]
+C:\Users\Ondřej\source\repos\sfmlThings\sfmlThings\Source.cpp(80,18): warning C4244: inicializování: T se převádí na int; může dojít ke ztrátě dat.
+          with
+          [
+              T=float
+          ]
+C:\Users\Ondřej\source\repos\sfmlThings\sfmlThings\Source.cpp(88,78): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\Ondřej\source\repos\sfmlThings\sfmlThings\Source.cpp(88,49): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+  sfmlThings.vcxproj -> C:\Users\Ondřej\source\repos\sfmlThings\x64\Debug\sfmlSnake-veverka.exe
